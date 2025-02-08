@@ -30,5 +30,5 @@ python app.py
 ```
 Open a browser and visit:
 ```
-http://127.0.0.1:5000/api/classify-number?number=371
+http://phav4.pythonanywhere.com/api/classify-number?number=371
 ```
